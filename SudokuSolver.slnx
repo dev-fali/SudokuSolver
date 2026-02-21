@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SudokuSolver/SudokuSolver.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SudokuSolver.Tests/SudokuSolver.Tests.csproj" />
+  </Folder>
+</Solution>
